@@ -1,0 +1,5 @@
+MOV	CL, 10
+L1:
+<LOOP-BODY>
+DEC	CL
+JNZ	L1
